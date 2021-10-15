@@ -486,6 +486,8 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+      - name: ''
+        type: string
     labelField: title
   section:
     type: object
