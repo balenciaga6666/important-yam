@@ -486,7 +486,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
+      - name: J
         type: string
         required: true
     labelField: title
