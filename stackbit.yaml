@@ -488,6 +488,7 @@ models:
         label: Seo
       - name: ''
         type: string
+        required: true
     labelField: title
   section:
     type: object
